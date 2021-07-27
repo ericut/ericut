@@ -1,10 +1,9 @@
-### Eric Frank Li - Desenvolvedor FrontEnd
-
 ![EFL Eric Li](https://github.com/ericut/ericut/blob/main/.doc/imgs/ericli-github-readme.png)
 
-![EFL Stats](https://github-readme-stats.vercel.app/api?username=ericut&show_icons=true&hide=prs,contribs&theme=radical)
+### Eric Frank Li - Desenvolvedor FrontEnd
 
-![EFL Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericut&layout=compact&hide=php&theme=radical)
+| ![EFL Stats](https://github-readme-stats.vercel.app/api?username=ericut&show_icons=true&hide=prs,contribs&theme=radical) | ![EFL Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericut&layout=compact&hide=php&theme=radical) |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 
 <!--
 **ericut/ericut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
