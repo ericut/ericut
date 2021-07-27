@@ -1,6 +1,6 @@
 ### Eric Frank Li - Desenvolvedor FrontEnd
 
-![EFL Eric Li](https://github.com/ericut/ericut/blob/main/.doc/imgs/ericli-github-readme)
+![EFL Eric Li](https://github.com/ericut/ericut/blob/main/.doc/imgs/ericli-github-readme.png)
 
 ![EFL Stats](https://github-readme-stats.vercel.app/api?username=ericut&show_icons=true&hide=prs,contribs&theme=radical)
 
