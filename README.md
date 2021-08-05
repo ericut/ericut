@@ -12,8 +12,9 @@ Me chamo Eric Frank Li sou Desenvolvedor Frontend e UI especialista em desenvolv
 
 Neste momento estou focado no projeto Joga BG, e nele eu utilizo as tecnologias que desenvolvo no cotidiano. O principal foco do projeto é gerenciar e controlar uma lista de partidas de jogos de tabuleiro, onde o usuário determinar uma quantidade de jogos e números de partidas.
 
-Site `https://www.jogabg.com.br/`
-Repo `https://github.com/ericut/jogaboardgame`
+Site https://www.jogabg.com.br/
+
+Repo https://github.com/ericut/jogaboardgame
 
 ### Com que eu trabalho?
 
