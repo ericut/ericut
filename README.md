@@ -2,11 +2,18 @@
 
 ## Eric Frank Li | Desenvolvedor FrontEnd
 
-Me chamo Eric Frank Li sou Desenvolvedor Frontend e UI especialista em desenvolvimento de interfaces web focando na experiência do usuário. Trabalho desenvolvendo aplicações web com tecnologias modernas. Estou sempre em busca de crescimento pessoal/profissional, novas tecnologias e conhecimento.
+Me chamo Eric Frank Li sou Desenvolvedor Frontend e UI especialista em desenvolvimento de interfaces web focando na experiência do usuário. Trabalho desenvolvendo aplicações web com tecnologias modernas.
 
 ![EFL Stats](https://github-readme-stats.vercel.app/api?username=ericut&show_icons=true&hide=prs,contribs&theme=radical)
 
 ![EFL Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericut&layout=compact&hide=php&theme=radical)
+
+### Meu projeto atual
+
+Neste momento estou focado no projeto Joga BG, e nele eu utilizo as tecnologias que desenvolvo no cotidiano. O principal foco do projeto é gerenciar e controlar uma lista de partidas de jogos de tabuleiro, onde o usuário determinar uma quantidade de jogos e números de partidas.
+
+Site `https://www.jogabg.com.br/`
+Repo `https://github.com/ericut/jogaboardgame`
 
 ### Com que eu trabalho?
 
@@ -28,10 +35,6 @@ Design de Interfaces
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericfrankli/)
 [![Instagram](https://img.shields.io/badge/<ericfrankli>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ericfrankli/)
-
-<!-- Outras ferramentas
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
--->
 
 <!--
 markdown badges:
