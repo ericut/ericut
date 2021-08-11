@@ -4,7 +4,7 @@
 
 Me chamo Eric Frank Li sou Desenvolvedor Frontend e UI especialista em desenvolvimento de interfaces web focando na experiência do usuário. Trabalho desenvolvendo aplicações web com tecnologias modernas.
 
-![EFL Stats](https://github-readme-stats.vercel.app/api?username=ericut&show_icons=true&hide=prs,contribs&theme=radical)
+![EFL Stats](https://github-readme-stats.vercel.app/api?username=ericut&show_icons=true&hide=issues,contribs&theme=radical)
 
 ![EFL Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericut&layout=compact&hide=php&theme=radical)
 
